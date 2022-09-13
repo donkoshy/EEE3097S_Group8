@@ -1,4 +1,4 @@
-Firstly, download wolfSSL by using the terminal and navigating to the folder wolfssl-5.5.0
+First, download wolfSSL by using the terminal and navigating to the folder wolfssl-5.5.0
 use the command :  ./configure
 Once that is done, use the command : make
 Then the command: make install
